@@ -1,0 +1,6 @@
+[submodule "foot-app/"] 
+  path = foot-app/
+  url = git://url-of-source/
+[submodule "foot-app"]
+	path = foot-app
+	url = ./foot-app/
